@@ -22,7 +22,7 @@ I think you should use an
 `<addr>` element here instead.
 
 
-![Error de Carga](C:/Images/YO)
+![Error de Carga](C:\Users\Alberto\Pictures/YO)
 
 You can use the [editor on GitHub](https://github.com/albertoper3z/Prueba/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
