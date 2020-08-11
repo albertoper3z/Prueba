@@ -1,8 +1,12 @@
 ## Welcome to GitHub Pages
 `!pip install folium`
+`$ pip install ipython`
+`$ python -m pip install ipykernel`
+`$ python -m ipykernel install [--user] [--name <machine-readable-name>] [--display-name <"User Friendly Name">]`
 `import folium
 m=folium.Map(location=[21, -99.1269], zoom_start=10)
 m `
+
 
 You can use the [editor on GitHub](https://github.com/albertoper3z/Prueba/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
