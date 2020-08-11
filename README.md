@@ -6,5 +6,5 @@
 
 Imagen : 
 
-![GitHub Logo](/images/YO.png)
+![GitHub Logo](/images/YO.jpg)
 Format: ![Alt Text](url)
