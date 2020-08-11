@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
-`$ pip install folium`
-
+`!pip install folium`
+`import folium
+m=folium.Map(location=[21, -99.1269], zoom_start=10)
+m `
 
 You can use the [editor on GitHub](https://github.com/albertoper3z/Prueba/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
