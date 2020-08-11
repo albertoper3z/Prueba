@@ -8,6 +8,7 @@ m=folium.Map(location=[21, -99.1269], zoom_start=10)
 m `
 
 ![Image of Clubes](https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png)
+![Image of reto](https://www.clubesdeciencia.mx/media/filer_public/2d/64/2d648c58-7b51-42af-afde-b9960ab53e73/cdecmx_challenge.png)
 
 You can use the [editor on GitHub](https://github.com/albertoper3z/Prueba/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
